@@ -1,4 +1,3 @@
-// Music
 const songs = 
 [
 	{ path: "Karna.val - Опять домой (zheez Remix)", artist: "Manc Mantas", },
